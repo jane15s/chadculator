@@ -14,10 +14,10 @@ This project is a playful allusion to certain real-life personalities: loud, rud
 ## How to run
 
 ```
-git clone https://github.com/yourusername/chadculator.git
+git clone https://github.com/jane15s/chadculator.git
 cd chadculator
 python3 chadculator_cli.py
 ```
 ## Customization options:
-- Insults are grouped by category in insults.py. You can change, add or localize them.
-- You can set a number of allowed input attempts before Chadculator loses its shit and restars.
+- Insults are grouped by category in insults.py. You can change, add, or localize them.
+- You can set the number of allowed input attempts before Chadculator loses its shit and restars.
